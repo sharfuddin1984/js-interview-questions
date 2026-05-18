@@ -11,7 +11,7 @@ interview questions with answers and live code examples.
 - ✅ Zero dependencies — works offline
 
 ## Live Demo
-👉 https://YOUR_USERNAME.github.io/js-interview-questions/
+👉 https://github.com/sharfuddin1984/js-interview-questions/
 
 ## Topics Covered
 Basics · Functions · Arrays · Loops · DOM · Async JS ·
